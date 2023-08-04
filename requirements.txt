@@ -1,0 +1,6 @@
+bcrypt==4.0.1
+msgpack==1.0.5
+pyfiglet==0.8.post1
+PyJWT==2.8.0
+redis==4.6.0
+websockets==11.0.3
